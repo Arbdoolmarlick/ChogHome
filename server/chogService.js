@@ -54,7 +54,10 @@ if (!fs.existsSync(METADATA_DIR)) {
   try { fs.mkdirSync(METADATA_DIR, { recursive: true }); } catch (e) {}
 }
 
-const OWNER_MAP_FILE = path.join(CACHE_DIR, 'ownerMap.json');
+const SEED_OWNER_MAP_FILE = path.resolve('server', 'ownerMap.json');
+const CACHE_OWNER_MAP_FILE = path.join(CACHE_DIR, 'ownerMap.json');
+const OWNER_MAP_FILE = fs.existsSync(SEED_OWNER_MAP_FILE) ? SEED_OWNER_MAP_FILE : CACHE_OWNER_MAP_FILE;
+
 if (fs.existsSync(OWNER_MAP_FILE)) {
   try {
     const raw = JSON.parse(fs.readFileSync(OWNER_MAP_FILE, 'utf8'));

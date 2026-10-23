@@ -275,8 +275,14 @@ if (fs.existsSync(DIST_DIR)) {
   });
 }
 
+export default app;
+
 // Start server
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`🚀 Chog Town Backend listening on port ${PORT}`);
-  console.log(`📡 Monad Mainnet Chain ID: ${MONAD_CONFIG.chainId} | Contract: ${MONAD_CONFIG.nftContract}`);
-});
+if (!process.env.VERCEL) {
+  app.listen(PORT, '0.0.0.0', () => {
+    console.log(`🚀 Chog Town Backend listening on port ${PORT}`);
+    console.log(`📡 Monad Mainnet Chain ID: ${MONAD_CONFIG.chainId} | Contract: ${MONAD_CONFIG.nftContract}`);
+    // Initial background refresh if needed
+    refreshOwnerMap().catch(err => console.warn('[Server] Initial owner map refresh error:', err.message));
+  });
+}
