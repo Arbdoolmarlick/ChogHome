@@ -1,0 +1,82 @@
+[
+  {
+    "w": 390,
+    "fails": [],
+    "warns": [
+      "6 text elements at 11px: 11px \"01 • SOCIAL HUB\"; 11px \"02 • PIXEL ARCADE\"; 11px \"03 • TOKEN MEMORY\"",
+      "Marketing cliché: \"unlock\". Is there a more specific way to say it?",
+      "3 em dashes in visible copy. A period or colon usually reads cleaner.",
+      "3 exclamation marks. The page is shouting.",
+      "Four saturated hue families (60°, 180°, 120°, 330°). Is each one earning its place?",
+      "21 elements cast shadows. Depth from one or two layers, not every box.",
+      "Boxes nested inside boxes x12. Group with space and alignment before containers.",
+      "Icon + heading + paragraph card grid: 3 cards \"01 • SOCIAL HUB…\". The most generated section on the web. Could it be a list, a table, a demo, or one strong example?"
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "88%",
+        "Press Start 2P": "12%"
+      },
+      "sizes": [
+        20,
+        18,
+        16,
+        14,
+        12,
+        11
+      ],
+      "body": 17.4,
+      "hues": [
+        60,
+        180,
+        120,
+        330
+      ],
+      "boxes": 27,
+      "cardGrids": 1,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 1440,
+    "fails": [],
+    "warns": [
+      "Largest text is 30px against 17.8px body (1.7x). Nothing owns the first screen.",
+      "6 text elements at 11px: 11px \"01 • SOCIAL HUB\"; 11px \"02 • PIXEL ARCADE\"; 11px \"03 • TOKEN MEMORY\"",
+      "Marketing cliché: \"unlock\". Is there a more specific way to say it?",
+      "3 em dashes in visible copy. A period or colon usually reads cleaner.",
+      "3 exclamation marks. The page is shouting.",
+      "Four saturated hue families (60°, 180°, 120°, 330°). Is each one earning its place?",
+      "21 elements cast shadows. Depth from one or two layers, not every box.",
+      "Boxes nested inside boxes x10. Group with space and alignment before containers.",
+      "Icon + heading + paragraph card grid: 3 cards \"01 • SOCIAL HUB…\". The most generated section on the web. Could it be a list, a table, a demo, or one strong example?"
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "88%",
+        "Press Start 2P": "12%"
+      },
+      "sizes": [
+        30,
+        24,
+        18,
+        16,
+        14,
+        12,
+        11
+      ],
+      "body": 17.8,
+      "hues": [
+        60,
+        180,
+        120,
+        330
+      ],
+      "boxes": 24,
+      "cardGrids": 1,
+      "centeredHero": true,
+      "defaultIcons": 0,
+      "focusStops": 11
+    }
+  }
+]

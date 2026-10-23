@@ -1,0 +1,130 @@
+[
+  {
+    "w": 390,
+    "fails": [],
+    "warns": [
+      "7 text elements at 11px: 11px \"CHOG TOWN\"; 11px \"COACH 1 /3\"; 11px \"Love\"",
+      "19 elements cast shadows. Depth from one or two layers, not every box.",
+      "8 icons sitting in tinted rounded squares. When every item has one, none of them mean anything."
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "96%",
+        "Press Start 2P": "4%"
+      },
+      "sizes": [
+        14,
+        12,
+        11
+      ],
+      "body": null,
+      "hues": [
+        60
+      ],
+      "boxes": 5,
+      "cardGrids": 0,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 768,
+    "fails": [],
+    "warns": [
+      "Largest text is 16px against 16px body (1.0x). Nothing owns the first screen.",
+      "8 text elements at 11px: 11px \"#404 • 0x71C...9A21\"; 11px \"COACH 1 /3\"; 11px \"ZONES:\"",
+      "19 elements cast shadows. Depth from one or two layers, not every box.",
+      "7 icons sitting in tinted rounded squares. When every item has one, none of them mean anything."
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "94%",
+        "Press Start 2P": "6%"
+      },
+      "sizes": [
+        16,
+        14,
+        12,
+        11
+      ],
+      "body": null,
+      "hues": [
+        60,
+        180
+      ],
+      "boxes": 6,
+      "cardGrids": 0,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 1280,
+    "fails": [
+      "Contrast below WCAG AA: 2.75:1 10px \"3\""
+    ],
+    "warns": [
+      "Largest text is 18px against 16px body (1.1x). Nothing owns the first screen.",
+      "9 text elements at 11px: 11px \"#404 • 0x71C...9A21\"; 11px \"COACH 1 /3\"; 11px \"ZONES:\"",
+      "41 elements cast shadows. Depth from one or two layers, not every box."
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "87%",
+        "Press Start 2P": "12%",
+        "ui-monospace": "2%"
+      },
+      "sizes": [
+        18,
+        16,
+        14,
+        12,
+        11,
+        10
+      ],
+      "body": null,
+      "hues": [
+        60,
+        180,
+        120
+      ],
+      "boxes": 8,
+      "cardGrids": 0,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 1440,
+    "fails": [
+      "Contrast below WCAG AA: 2.75:1 10px \"1\""
+    ],
+    "warns": [
+      "Largest text is 18px against 16px body (1.1x). Nothing owns the first screen.",
+      "9 text elements at 11px: 11px \"#404 • 0x71C...9A21\"; 11px \"COACH 1 /3\"; 11px \"ZONES:\"",
+      "41 elements cast shadows. Depth from one or two layers, not every box."
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "87%",
+        "Press Start 2P": "12%",
+        "ui-monospace": "2%"
+      },
+      "sizes": [
+        18,
+        16,
+        14,
+        12,
+        11,
+        10
+      ],
+      "body": null,
+      "hues": [
+        60,
+        180,
+        120
+      ],
+      "boxes": 8,
+      "cardGrids": 0,
+      "defaultIcons": 0,
+      "focusStops": 15
+    }
+  }
+]

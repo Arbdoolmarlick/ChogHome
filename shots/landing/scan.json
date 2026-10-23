@@ -1,0 +1,154 @@
+[
+  {
+    "w": 390,
+    "fails": [],
+    "warns": [
+      "6 text elements at 11px: 11px \"01 • SOCIAL HUB\"; 11px \"02 • PIXEL ARCADE\"; 11px \"03 • TOKEN MEMORY\"",
+      "Four saturated hue families (60°, 180°, 120°, 330°). Is each one earning its place?",
+      "21 elements cast shadows. Depth from one or two layers, not every box.",
+      "Boxes nested inside boxes x12. Group with space and alignment before containers.",
+      "Icon + heading + paragraph card grid: 3 cards \"01 • SOCIAL HUB…\". The most generated section on the web. Could it be a list, a table, a demo, or one strong example?"
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "87%",
+        "Press Start 2P": "13%"
+      },
+      "sizes": [
+        18,
+        16,
+        14,
+        12,
+        11
+      ],
+      "body": 17,
+      "hues": [
+        60,
+        180,
+        120,
+        330
+      ],
+      "boxes": 27,
+      "cardGrids": 1,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 768,
+    "fails": [
+      "Page scrolls sideways at 768px (content 770px wide). Often 100vw, a fixed width, or an unwrapped long word.",
+      "Text running off the viewport: \"100% Transferable\""
+    ],
+    "warns": [
+      "Largest text is 24px against 17.4px body (1.4x). Nothing owns the first screen.",
+      "6 text elements at 11px: 11px \"01 • SOCIAL HUB\"; 11px \"02 • PIXEL ARCADE\"; 11px \"03 • TOKEN MEMORY\"",
+      "Four saturated hue families (60°, 180°, 120°, 330°). Is each one earning its place?",
+      "21 elements cast shadows. Depth from one or two layers, not every box.",
+      "Boxes nested inside boxes x10. Group with space and alignment before containers.",
+      "Icon + heading + paragraph card grid: 3 cards \"01 • SOCIAL HUB…\". The most generated section on the web. Could it be a list, a table, a demo, or one strong example?"
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "88%",
+        "Press Start 2P": "12%"
+      },
+      "sizes": [
+        24,
+        20,
+        18,
+        16,
+        14,
+        12,
+        11
+      ],
+      "body": 17.4,
+      "hues": [
+        60,
+        180,
+        120,
+        330
+      ],
+      "boxes": 24,
+      "cardGrids": 1,
+      "centeredHero": true,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 1280,
+    "fails": [],
+    "warns": [
+      "Largest text is 30px against 17.4px body (1.7x). Nothing owns the first screen.",
+      "6 text elements at 11px: 11px \"01 • SOCIAL HUB\"; 11px \"02 • PIXEL ARCADE\"; 11px \"03 • TOKEN MEMORY\"",
+      "Four saturated hue families (60°, 180°, 120°, 330°). Is each one earning its place?",
+      "21 elements cast shadows. Depth from one or two layers, not every box.",
+      "Boxes nested inside boxes x10. Group with space and alignment before containers.",
+      "Icon + heading + paragraph card grid: 3 cards \"01 • SOCIAL HUB…\". The most generated section on the web. Could it be a list, a table, a demo, or one strong example?"
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "88%",
+        "Press Start 2P": "12%"
+      },
+      "sizes": [
+        30,
+        20,
+        18,
+        16,
+        14,
+        12,
+        11
+      ],
+      "body": 17.4,
+      "hues": [
+        60,
+        180,
+        120,
+        330
+      ],
+      "boxes": 24,
+      "cardGrids": 1,
+      "centeredHero": true,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 1440,
+    "fails": [],
+    "warns": [
+      "Largest text is 30px against 17.4px body (1.7x). Nothing owns the first screen.",
+      "6 text elements at 11px: 11px \"01 • SOCIAL HUB\"; 11px \"02 • PIXEL ARCADE\"; 11px \"03 • TOKEN MEMORY\"",
+      "Four saturated hue families (60°, 180°, 120°, 330°). Is each one earning its place?",
+      "21 elements cast shadows. Depth from one or two layers, not every box.",
+      "Boxes nested inside boxes x10. Group with space and alignment before containers.",
+      "Icon + heading + paragraph card grid: 3 cards \"01 • SOCIAL HUB…\". The most generated section on the web. Could it be a list, a table, a demo, or one strong example?"
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "88%",
+        "Press Start 2P": "12%"
+      },
+      "sizes": [
+        30,
+        20,
+        18,
+        16,
+        14,
+        12,
+        11
+      ],
+      "body": 17.4,
+      "hues": [
+        60,
+        180,
+        120,
+        330
+      ],
+      "boxes": 24,
+      "cardGrids": 1,
+      "centeredHero": true,
+      "defaultIcons": 0,
+      "focusStops": 11
+    }
+  }
+]

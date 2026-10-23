@@ -1,0 +1,79 @@
+[
+  {
+    "w": 390,
+    "fails": [
+      "Text under 11px: 9px \"MONAD ERC-721 • TOKEN # 1337\"; 10px \"AI RESIDENT\"; 10px \"Token Friends ( 3 )\"",
+      "Control label wraps onto two lines: \"↻ Flip Lore & Badges\"; \"📸 Save PNG\"; \"Walk To\". Give it room or shorten it.",
+      "Emoji in interface copy: 🏡 🌧 📸 🏅 💬 ⚔. Use an icon set at one weight, or words.",
+      "Text over an image or gradient fails contrast on part of its ground (4.33:1, needs 4.5): \"15 L\". Add a scrim, move it, or change the ink."
+    ],
+    "warns": [
+      "22 elements cast shadows. Depth from one or two layers, not every box.",
+      "No visible <h1>."
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "86%",
+        "Press Start 2P": "12%",
+        "ui-monospace": "2%"
+      },
+      "sizes": [
+        18,
+        16,
+        14,
+        12,
+        11,
+        10,
+        9
+      ],
+      "body": null,
+      "hues": [
+        60,
+        180,
+        120
+      ],
+      "boxes": 6,
+      "cardGrids": 0,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 1440,
+    "fails": [
+      "Text under 11px: 9px \"EMOTE:\"; 9px \"MONAD ERC-721 • TOKEN # 1337\"; 10px \"AI RESIDENT\"; 10px \"Token Friends ( 3 )\"",
+      "Control label wraps onto two lines: \"↻ Flip Lore & Badges\"; \"📸 Save PNG\". Give it room or shorten it.",
+      "Emoji in interface copy: 🏡 🌧 ⚔ ❤ 😂 👋 🕺 ☕ 💤 ⛲ 🕹 🌳 🏪 🏛 📸 🏅 💬. Use an icon set at one weight, or words.",
+      "Text over an image or gradient fails contrast on part of its ground (4.40:1, needs 4.5): \"15 L\". Add a scrim, move it, or change the ink."
+    ],
+    "warns": [
+      "44 elements cast shadows. Depth from one or two layers, not every box.",
+      "No visible <h1>."
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "89%",
+        "Press Start 2P": "9%",
+        "ui-monospace": "1%"
+      },
+      "sizes": [
+        18,
+        16,
+        14,
+        12,
+        11,
+        10,
+        9
+      ],
+      "body": null,
+      "hues": [
+        60,
+        180,
+        120
+      ],
+      "boxes": 7,
+      "cardGrids": 0,
+      "defaultIcons": 0,
+      "focusStops": 38
+    }
+  }
+]

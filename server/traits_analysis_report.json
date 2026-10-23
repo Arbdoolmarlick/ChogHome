@@ -1,0 +1,2135 @@
+{
+  "summary": [
+    {
+      "traitType": "Background",
+      "uniqueValuesCount": 32,
+      "totalOccurrences": 1829,
+      "topValues": [
+        "Light Purple (167)",
+        "Lemon (131)",
+        "Mon (128)",
+        "Aqua (126)",
+        "Rosie (122)"
+      ]
+    },
+    {
+      "traitType": "Base",
+      "uniqueValuesCount": 4,
+      "totalOccurrences": 1838,
+      "topValues": [
+        "Origin (1743)",
+        "Skull (58)",
+        "Radioactive (28)",
+        "1:1 (9)"
+      ]
+    },
+    {
+      "traitType": "Skin",
+      "uniqueValuesCount": 14,
+      "totalOccurrences": 1829,
+      "topValues": [
+        "Pink (522)",
+        "Origin (491)",
+        "Red (280)",
+        "Black (246)",
+        "Yellow (227)"
+      ]
+    },
+    {
+      "traitType": "Side",
+      "uniqueValuesCount": 2,
+      "totalOccurrences": 1829,
+      "topValues": [
+        "Right (1222)",
+        "Left (607)"
+      ]
+    },
+    {
+      "traitType": "Body",
+      "uniqueValuesCount": 96,
+      "totalOccurrences": 1643,
+      "topValues": [
+        "Tuxedo (49)",
+        "Gangster suit (39)",
+        "Kings Robe (37)",
+        "Black Trackset (35)",
+        "Squid Game Guard (35)"
+      ]
+    },
+    {
+      "traitType": "Mouth",
+      "uniqueValuesCount": 15,
+      "totalOccurrences": 1682,
+      "topValues": [
+        "normal smile (183)",
+        "Sad (174)",
+        "Smile (169)",
+        "Drooling (167)",
+        "Bubblegum (162)"
+      ]
+    },
+    {
+      "traitType": "Eyes",
+      "uniqueValuesCount": 58,
+      "totalOccurrences": 1829,
+      "topValues": [
+        "Happy (110)",
+        "Side Eye (96)",
+        "Purple laser (95)",
+        "fire laser (86)",
+        "Dead (74)"
+      ]
+    },
+    {
+      "traitType": "Head",
+      "uniqueValuesCount": 65,
+      "totalOccurrences": 1599,
+      "topValues": [
+        "Mon Cap (66)",
+        "Balls Cap (60)",
+        "Russian Hat (57)",
+        "Horny Cap (52)",
+        "Choggie Cap (50)"
+      ]
+    },
+    {
+      "traitType": "Accessory",
+      "uniqueValuesCount": 9,
+      "totalOccurrences": 178,
+      "topValues": [
+        "Fwog (26)",
+        "SB (25)",
+        "Coin (24)",
+        "Cigar (23)",
+        "Green Candle (22)"
+      ]
+    },
+    {
+      "traitType": "Form",
+      "uniqueValuesCount": 2,
+      "totalOccurrences": 1829,
+      "topValues": [
+        "Chog (1771)",
+        "Skull (58)"
+      ]
+    },
+    {
+      "traitType": "Tier",
+      "uniqueValuesCount": 5,
+      "totalOccurrences": 1838,
+      "topValues": [
+        "Common (1193)",
+        "Uncommon (550)",
+        "Rare (58)",
+        "Epic (28)",
+        "Legendary (9)"
+      ]
+    },
+    {
+      "traitType": "Naked",
+      "uniqueValuesCount": 2,
+      "totalOccurrences": 1829,
+      "topValues": [
+        "No (1779)",
+        "Yes (50)"
+      ]
+    },
+    {
+      "traitType": "Aura",
+      "uniqueValuesCount": 22,
+      "totalOccurrences": 913,
+      "topValues": [
+        "Burning Aura (75)",
+        "Fiery Aura (67)",
+        "Aqua Aura (66)",
+        "Rose Aura (61)",
+        "Light Purple (60)"
+      ]
+    }
+  ],
+  "totalAnalyzed": 1969,
+  "mapping": {
+    "Background": {
+      "Light Purple": {
+        "occurrences": 167,
+        "frequency": "8.48%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Lemon": {
+        "occurrences": 131,
+        "frequency": "6.65%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Mon": {
+        "occurrences": 128,
+        "frequency": "6.50%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Aqua": {
+        "occurrences": 126,
+        "frequency": "6.40%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Rosie": {
+        "occurrences": 122,
+        "frequency": "6.20%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Sunlight": {
+        "occurrences": 121,
+        "frequency": "6.15%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Lemon Yellow": {
+        "occurrences": 121,
+        "frequency": "6.15%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Coral Pink": {
+        "occurrences": 113,
+        "frequency": "5.74%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Mint": {
+        "occurrences": 108,
+        "frequency": "5.49%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Light Magenta": {
+        "occurrences": 88,
+        "frequency": "4.47%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Peach Pink": {
+        "occurrences": 86,
+        "frequency": "4.37%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Soft Lavender": {
+        "occurrences": 83,
+        "frequency": "4.22%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Fresh Green": {
+        "occurrences": 77,
+        "frequency": "3.91%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Sky Blue": {
+        "occurrences": 76,
+        "frequency": "3.86%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Aqua Mint": {
+        "occurrences": 65,
+        "frequency": "3.30%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Rosy Pink": {
+        "occurrences": 43,
+        "frequency": "2.18%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Deep Blue": {
+        "occurrences": 43,
+        "frequency": "2.18%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Deep Aqua": {
+        "occurrences": 40,
+        "frequency": "2.03%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Lime Green": {
+        "occurrences": 40,
+        "frequency": "2.03%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Radioactive": {
+        "occurrences": 28,
+        "frequency": "1.42%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Red Sky": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Deep Purple": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Gold": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Magenta": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Royal Blue": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Bright Yellow": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Supreme Purple": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Noble Blue": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Afternoon Orange": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Blood Red": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Aqua Blue": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "background",
+        "active": true
+      },
+      "Rose Pink": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "background",
+        "active": true
+      }
+    },
+    "Base": {
+      "Origin": {
+        "occurrences": 1743,
+        "frequency": "88.52%",
+        "overlayType": "base",
+        "active": true
+      },
+      "Skull": {
+        "occurrences": 58,
+        "frequency": "2.95%",
+        "overlayType": "base",
+        "active": true
+      },
+      "Radioactive": {
+        "occurrences": 28,
+        "frequency": "1.42%",
+        "overlayType": "base",
+        "active": true
+      },
+      "1:1": {
+        "occurrences": 9,
+        "frequency": "0.46%",
+        "overlayType": "base",
+        "active": true
+      }
+    },
+    "Skin": {
+      "Pink": {
+        "occurrences": 522,
+        "frequency": "26.51%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Origin": {
+        "occurrences": 491,
+        "frequency": "24.94%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Red": {
+        "occurrences": 280,
+        "frequency": "14.22%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Black": {
+        "occurrences": 246,
+        "frequency": "12.49%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Yellow": {
+        "occurrences": 227,
+        "frequency": "11.53%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Blue": {
+        "occurrences": 13,
+        "frequency": "0.66%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "White": {
+        "occurrences": 11,
+        "frequency": "0.56%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Green": {
+        "occurrences": 7,
+        "frequency": "0.36%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Purple": {
+        "occurrences": 7,
+        "frequency": "0.36%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Beige": {
+        "occurrences": 6,
+        "frequency": "0.30%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Jade": {
+        "occurrences": 6,
+        "frequency": "0.30%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Multi Colored": {
+        "occurrences": 6,
+        "frequency": "0.30%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Metal": {
+        "occurrences": 4,
+        "frequency": "0.20%",
+        "overlayType": "skin",
+        "active": true
+      },
+      "Grey": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "skin",
+        "active": true
+      }
+    },
+    "Side": {
+      "Right": {
+        "occurrences": 1222,
+        "frequency": "62.06%",
+        "overlayType": "side",
+        "active": true
+      },
+      "Left": {
+        "occurrences": 607,
+        "frequency": "30.83%",
+        "overlayType": "side",
+        "active": true
+      }
+    },
+    "Body": {
+      "Tuxedo": {
+        "occurrences": 49,
+        "frequency": "2.49%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Gangster suit": {
+        "occurrences": 39,
+        "frequency": "1.98%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Kings Robe": {
+        "occurrences": 37,
+        "frequency": "1.88%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Black Trackset": {
+        "occurrences": 35,
+        "frequency": "1.78%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Squid Game Guard": {
+        "occurrences": 35,
+        "frequency": "1.78%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Inmate": {
+        "occurrences": 34,
+        "frequency": "1.73%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Farmer Shirt": {
+        "occurrences": 34,
+        "frequency": "1.73%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Black Vest": {
+        "occurrences": 34,
+        "frequency": "1.73%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Red Tuxedo": {
+        "occurrences": 32,
+        "frequency": "1.63%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Stripes": {
+        "occurrences": 32,
+        "frequency": "1.63%",
+        "overlayType": "body",
+        "active": true
+      },
+      "White tuxedo": {
+        "occurrences": 32,
+        "frequency": "1.63%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Prisoner": {
+        "occurrences": 32,
+        "frequency": "1.63%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Six Seven": {
+        "occurrences": 32,
+        "frequency": "1.63%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Chug Life": {
+        "occurrences": 30,
+        "frequency": "1.52%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Black Shirt": {
+        "occurrences": 29,
+        "frequency": "1.47%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Fire Shirt": {
+        "occurrences": 29,
+        "frequency": "1.47%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Blue Chinese": {
+        "occurrences": 28,
+        "frequency": "1.42%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Cream Tuxedo": {
+        "occurrences": 27,
+        "frequency": "1.37%",
+        "overlayType": "body",
+        "active": true
+      },
+      "White Pure Shirt": {
+        "occurrences": 27,
+        "frequency": "1.37%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Tank Top": {
+        "occurrences": 27,
+        "frequency": "1.37%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Yellow Shirt": {
+        "occurrences": 26,
+        "frequency": "1.32%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Duck Float": {
+        "occurrences": 26,
+        "frequency": "1.32%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Yellow Yukata": {
+        "occurrences": 26,
+        "frequency": "1.32%",
+        "overlayType": "body",
+        "active": true
+      },
+      "CWO": {
+        "occurrences": 25,
+        "frequency": "1.27%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Hawaiian Polo": {
+        "occurrences": 25,
+        "frequency": "1.27%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Banana suit": {
+        "occurrences": 25,
+        "frequency": "1.27%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Red Chinese": {
+        "occurrences": 24,
+        "frequency": "1.22%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Aqua Tuxedo": {
+        "occurrences": 24,
+        "frequency": "1.22%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Shark Suit": {
+        "occurrences": 24,
+        "frequency": "1.22%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Astro Suit": {
+        "occurrences": 23,
+        "frequency": "1.17%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Pink Tuxedo": {
+        "occurrences": 23,
+        "frequency": "1.17%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Red shirt": {
+        "occurrences": 23,
+        "frequency": "1.17%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Dragon suit": {
+        "occurrences": 22,
+        "frequency": "1.12%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Jesus": {
+        "occurrences": 22,
+        "frequency": "1.12%",
+        "overlayType": "body",
+        "active": true
+      },
+      "MILF Lover": {
+        "occurrences": 21,
+        "frequency": "1.07%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Wizard": {
+        "occurrences": 20,
+        "frequency": "1.02%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Blue tuxedo": {
+        "occurrences": 20,
+        "frequency": "1.02%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Red Trackset": {
+        "occurrences": 19,
+        "frequency": "0.96%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Orange Sleeveless": {
+        "occurrences": 17,
+        "frequency": "0.86%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Squid Game": {
+        "occurrences": 17,
+        "frequency": "0.86%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Mon Hoodie": {
+        "occurrences": 16,
+        "frequency": "0.81%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Orange Hoodie": {
+        "occurrences": 16,
+        "frequency": "0.81%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Golden Armor": {
+        "occurrences": 16,
+        "frequency": "0.81%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Yellow Hoodie": {
+        "occurrences": 16,
+        "frequency": "0.81%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Brown Homeless Shirt": {
+        "occurrences": 16,
+        "frequency": "0.81%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Cyan tuxedo": {
+        "occurrences": 16,
+        "frequency": "0.81%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Yellow 143 Jersey": {
+        "occurrences": 15,
+        "frequency": "0.76%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Sci Fi": {
+        "occurrences": 15,
+        "frequency": "0.76%",
+        "overlayType": "body",
+        "active": true
+      },
+      "White Sleeveless": {
+        "occurrences": 15,
+        "frequency": "0.76%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Red Sleeveless": {
+        "occurrences": 15,
+        "frequency": "0.76%",
+        "overlayType": "body",
+        "active": true
+      },
+      "toad blue suit": {
+        "occurrences": 15,
+        "frequency": "0.76%",
+        "overlayType": "body",
+        "active": true
+      },
+      "pink vest": {
+        "occurrences": 15,
+        "frequency": "0.76%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Electro Hoodie": {
+        "occurrences": 14,
+        "frequency": "0.71%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Blue 143 Jersey": {
+        "occurrences": 14,
+        "frequency": "0.71%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Red jacket": {
+        "occurrences": 13,
+        "frequency": "0.66%",
+        "overlayType": "body",
+        "active": true
+      },
+      "White Shirt": {
+        "occurrences": 13,
+        "frequency": "0.66%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Virgin": {
+        "occurrences": 13,
+        "frequency": "0.66%",
+        "overlayType": "body",
+        "active": true
+      },
+      "dark jacket": {
+        "occurrences": 13,
+        "frequency": "0.66%",
+        "overlayType": "body",
+        "active": true
+      },
+      "blue tee": {
+        "occurrences": 13,
+        "frequency": "0.66%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Grey Shirt": {
+        "occurrences": 12,
+        "frequency": "0.61%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Purple Shirt": {
+        "occurrences": 12,
+        "frequency": "0.61%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Glitch Hoodie": {
+        "occurrences": 12,
+        "frequency": "0.61%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Blue jacket": {
+        "occurrences": 12,
+        "frequency": "0.61%",
+        "overlayType": "body",
+        "active": true
+      },
+      "White Yukata": {
+        "occurrences": 11,
+        "frequency": "0.56%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Grey Homeless Shirt": {
+        "occurrences": 11,
+        "frequency": "0.56%",
+        "overlayType": "body",
+        "active": true
+      },
+      "dark tee": {
+        "occurrences": 11,
+        "frequency": "0.56%",
+        "overlayType": "body",
+        "active": true
+      },
+      "dark vest": {
+        "occurrences": 10,
+        "frequency": "0.51%",
+        "overlayType": "body",
+        "active": true
+      },
+      "purple vest": {
+        "occurrences": 10,
+        "frequency": "0.51%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Blue Homeless Shirt": {
+        "occurrences": 10,
+        "frequency": "0.51%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Sky Hoodie": {
+        "occurrences": 10,
+        "frequency": "0.51%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Blue Sleeveless": {
+        "occurrences": 10,
+        "frequency": "0.51%",
+        "overlayType": "body",
+        "active": true
+      },
+      "white tee": {
+        "occurrences": 10,
+        "frequency": "0.51%",
+        "overlayType": "body",
+        "active": true
+      },
+      "red tee": {
+        "occurrences": 10,
+        "frequency": "0.51%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Guko": {
+        "occurrences": 9,
+        "frequency": "0.46%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Army Vest": {
+        "occurrences": 9,
+        "frequency": "0.46%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Zero THOTS": {
+        "occurrences": 9,
+        "frequency": "0.46%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Toad pink suit": {
+        "occurrences": 8,
+        "frequency": "0.41%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Pink Shirt": {
+        "occurrences": 8,
+        "frequency": "0.41%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Toad green Suit": {
+        "occurrences": 8,
+        "frequency": "0.41%",
+        "overlayType": "body",
+        "active": true
+      },
+      "BBC": {
+        "occurrences": 7,
+        "frequency": "0.36%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Peach Hoodie": {
+        "occurrences": 7,
+        "frequency": "0.36%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Red 143 Jersey": {
+        "occurrences": 7,
+        "frequency": "0.36%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Cyan Shirt": {
+        "occurrences": 6,
+        "frequency": "0.30%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Gojo": {
+        "occurrences": 4,
+        "frequency": "0.20%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Stripe Shirt": {
+        "occurrences": 4,
+        "frequency": "0.20%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Wizard Cape": {
+        "occurrences": 4,
+        "frequency": "0.20%",
+        "overlayType": "body",
+        "active": true
+      },
+      "CEO Vest": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Mummy": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Stripe shirts": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Jesus Robe": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Blue Holed Jacket": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Boner": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "body",
+        "active": true
+      },
+      "White Tank": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Purple Tank": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Orange Holed Jacket": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "body",
+        "active": true
+      },
+      "Blue Mafia": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "body",
+        "active": true
+      }
+    },
+    "Mouth": {
+      "normal smile": {
+        "occurrences": 183,
+        "frequency": "9.29%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Sad": {
+        "occurrences": 174,
+        "frequency": "8.84%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Smile": {
+        "occurrences": 169,
+        "frequency": "8.58%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Drooling": {
+        "occurrences": 167,
+        "frequency": "8.48%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Bubblegum": {
+        "occurrences": 162,
+        "frequency": "8.23%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Rainbow Puke": {
+        "occurrences": 139,
+        "frequency": "7.06%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Worried": {
+        "occurrences": 118,
+        "frequency": "5.99%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Gold Tooth": {
+        "occurrences": 112,
+        "frequency": "5.69%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "wo": {
+        "occurrences": 109,
+        "frequency": "5.54%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Lip Bite": {
+        "occurrences": 100,
+        "frequency": "5.08%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "BTC Coin": {
+        "occurrences": 55,
+        "frequency": "2.79%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Clown Mouth": {
+        "occurrences": 55,
+        "frequency": "2.79%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Flat": {
+        "occurrences": 53,
+        "frequency": "2.69%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Grit": {
+        "occurrences": 44,
+        "frequency": "2.23%",
+        "overlayType": "mouth",
+        "active": true
+      },
+      "Mon coin": {
+        "occurrences": 42,
+        "frequency": "2.13%",
+        "overlayType": "mouth",
+        "active": true
+      }
+    },
+    "Eyes": {
+      "Happy": {
+        "occurrences": 110,
+        "frequency": "5.59%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Side Eye": {
+        "occurrences": 96,
+        "frequency": "4.88%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Purple laser": {
+        "occurrences": 95,
+        "frequency": "4.82%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "fire laser": {
+        "occurrences": 86,
+        "frequency": "4.37%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Dead": {
+        "occurrences": 74,
+        "frequency": "3.76%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Normal Eye": {
+        "occurrences": 72,
+        "frequency": "3.66%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Round": {
+        "occurrences": 69,
+        "frequency": "3.50%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Heart": {
+        "occurrences": 67,
+        "frequency": "3.40%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Round Crying": {
+        "occurrences": 66,
+        "frequency": "3.35%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Green laser": {
+        "occurrences": 64,
+        "frequency": "3.25%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Round Tear": {
+        "occurrences": 61,
+        "frequency": "3.10%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Anime Glass": {
+        "occurrences": 58,
+        "frequency": "2.95%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Gradient visor": {
+        "occurrences": 57,
+        "frequency": "2.89%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Round Eye": {
+        "occurrences": 55,
+        "frequency": "2.79%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Closed Eye Crying": {
+        "occurrences": 54,
+        "frequency": "2.74%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Tired": {
+        "occurrences": 52,
+        "frequency": "2.64%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Retro Glass": {
+        "occurrences": 50,
+        "frequency": "2.54%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Teary": {
+        "occurrences": 49,
+        "frequency": "2.49%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Sunset visor": {
+        "occurrences": 49,
+        "frequency": "2.49%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Plasma visor": {
+        "occurrences": 41,
+        "frequency": "2.08%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Flat": {
+        "occurrences": 33,
+        "frequency": "1.68%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Angry": {
+        "occurrences": 32,
+        "frequency": "1.63%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Base": {
+        "occurrences": 32,
+        "frequency": "1.63%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Smirk": {
+        "occurrences": 31,
+        "frequency": "1.57%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Vertical": {
+        "occurrences": 31,
+        "frequency": "1.57%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "MOG": {
+        "occurrences": 29,
+        "frequency": "1.47%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Clown Eye": {
+        "occurrences": 26,
+        "frequency": "1.32%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Frog": {
+        "occurrences": 26,
+        "frequency": "1.32%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Classic VR": {
+        "occurrences": 25,
+        "frequency": "1.27%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Modern VR": {
+        "occurrences": 24,
+        "frequency": "1.22%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Chog Viper": {
+        "occurrences": 24,
+        "frequency": "1.22%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Retard": {
+        "occurrences": 24,
+        "frequency": "1.22%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Clown Eye Mix": {
+        "occurrences": 23,
+        "frequency": "1.17%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "XD": {
+        "occurrences": 23,
+        "frequency": "1.17%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Worried": {
+        "occurrences": 20,
+        "frequency": "1.02%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "3D Glass": {
+        "occurrences": 18,
+        "frequency": "0.91%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "BTC Glass": {
+        "occurrences": 17,
+        "frequency": "0.86%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Thug": {
+        "occurrences": 17,
+        "frequency": "0.86%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "cyan laser": {
+        "occurrences": 17,
+        "frequency": "0.86%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Red Round Eye": {
+        "occurrences": 4,
+        "frequency": "0.20%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Blue Retard": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Green Side Eye": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Up": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Mixed Retard": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Blue Round Eye": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Mixed Happy": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Red Flat": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Green Happy": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Normal": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Blue Flat": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Red Retard": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Green Round Eye": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Green Smirk": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Green Retard": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Mixed Round Eye": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Blue Happy": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Mixed Side Eye": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "eyes",
+        "active": true
+      },
+      "Blue Smirk": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "eyes",
+        "active": true
+      }
+    },
+    "Head": {
+      "Mon Cap": {
+        "occurrences": 66,
+        "frequency": "3.35%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Balls Cap": {
+        "occurrences": 60,
+        "frequency": "3.05%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Russian Hat": {
+        "occurrences": 57,
+        "frequency": "2.89%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Horny Cap": {
+        "occurrences": 52,
+        "frequency": "2.64%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Choggie Cap": {
+        "occurrences": 50,
+        "frequency": "2.54%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Crown": {
+        "occurrences": 48,
+        "frequency": "2.44%",
+        "overlayType": "head",
+        "active": true
+      },
+      "TISM Cap": {
+        "occurrences": 47,
+        "frequency": "2.39%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Blue Bucket Cap": {
+        "occurrences": 47,
+        "frequency": "2.39%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Durag": {
+        "occurrences": 46,
+        "frequency": "2.34%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Cloud Cap": {
+        "occurrences": 45,
+        "frequency": "2.29%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Boob Cap": {
+        "occurrences": 44,
+        "frequency": "2.23%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Wizard Hat": {
+        "occurrences": 43,
+        "frequency": "2.18%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Bob Hair": {
+        "occurrences": 43,
+        "frequency": "2.18%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Orange Bucket Cap": {
+        "occurrences": 42,
+        "frequency": "2.13%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Dollar Cap": {
+        "occurrences": 41,
+        "frequency": "2.08%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Spartan Helmet": {
+        "occurrences": 39,
+        "frequency": "1.98%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Star Cap": {
+        "occurrences": 38,
+        "frequency": "1.93%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Thunder Cap": {
+        "occurrences": 36,
+        "frequency": "1.83%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Peace hat": {
+        "occurrences": 36,
+        "frequency": "1.83%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Gray Bucket Cap": {
+        "occurrences": 35,
+        "frequency": "1.78%",
+        "overlayType": "head",
+        "active": true
+      },
+      "BTC Cap": {
+        "occurrences": 35,
+        "frequency": "1.78%",
+        "overlayType": "head",
+        "active": true
+      },
+      "MCGA": {
+        "occurrences": 33,
+        "frequency": "1.68%",
+        "overlayType": "head",
+        "active": true
+      },
+      "MMGA Cap": {
+        "occurrences": 33,
+        "frequency": "1.68%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Chog Cap": {
+        "occurrences": 32,
+        "frequency": "1.63%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Red Headband": {
+        "occurrences": 32,
+        "frequency": "1.63%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Red Peace Cap": {
+        "occurrences": 31,
+        "frequency": "1.57%",
+        "overlayType": "head",
+        "active": true
+      },
+      "MEGA Chog": {
+        "occurrences": 30,
+        "frequency": "1.52%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Clown Nose": {
+        "occurrences": 30,
+        "frequency": "1.52%",
+        "overlayType": "head",
+        "active": true
+      },
+      "JEET Cap": {
+        "occurrences": 30,
+        "frequency": "1.52%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Wizard Beanie": {
+        "occurrences": 29,
+        "frequency": "1.47%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Buttcoin Cap": {
+        "occurrences": 28,
+        "frequency": "1.42%",
+        "overlayType": "head",
+        "active": true
+      },
+      "10k TPS Cap": {
+        "occurrences": 28,
+        "frequency": "1.42%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Japan Headband": {
+        "occurrences": 27,
+        "frequency": "1.37%",
+        "overlayType": "head",
+        "active": true
+      },
+      "RETARD Cap": {
+        "occurrences": 25,
+        "frequency": "1.27%",
+        "overlayType": "head",
+        "active": true
+      },
+      "BTC Beanie": {
+        "occurrences": 24,
+        "frequency": "1.22%",
+        "overlayType": "head",
+        "active": true
+      },
+      "WAGMI Cap": {
+        "occurrences": 24,
+        "frequency": "1.22%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Choggie Beanie": {
+        "occurrences": 24,
+        "frequency": "1.22%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Plumber": {
+        "occurrences": 23,
+        "frequency": "1.17%",
+        "overlayType": "head",
+        "active": true
+      },
+      "RH Beanie": {
+        "occurrences": 23,
+        "frequency": "1.17%",
+        "overlayType": "head",
+        "active": true
+      },
+      "NEET": {
+        "occurrences": 23,
+        "frequency": "1.17%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Robber": {
+        "occurrences": 22,
+        "frequency": "1.12%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Mon Beanie": {
+        "occurrences": 20,
+        "frequency": "1.02%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Rainbow Wig": {
+        "occurrences": 17,
+        "frequency": "0.86%",
+        "overlayType": "head",
+        "active": true
+      },
+      "MCGA Cap": {
+        "occurrences": 16,
+        "frequency": "0.81%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Red Horn": {
+        "occurrences": 5,
+        "frequency": "0.25%",
+        "overlayType": "head",
+        "active": true
+      },
+      "3rd Eye": {
+        "occurrences": 4,
+        "frequency": "0.20%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Silver wreath": {
+        "occurrences": 4,
+        "frequency": "0.20%",
+        "overlayType": "head",
+        "active": true
+      },
+      "BOOB Cap": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Gold Thorn": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Holy Seal": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Silver Thorn": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Purple Horn": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "head",
+        "active": true
+      },
+      "ETH Cap": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Void Horn": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Demon Horn": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Taped Banana": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Diamond": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Red Bandana": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Peace Cap": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Head Wrap": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "head",
+        "active": true
+      },
+      "8 Ball Beanie": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Poison Shroom": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Jeet Cap": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "head",
+        "active": true
+      },
+      "devil horn": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "head",
+        "active": true
+      },
+      "Mafia Hat": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "head",
+        "active": true
+      }
+    },
+    "Accessory": {
+      "Fwog": {
+        "occurrences": 26,
+        "frequency": "1.32%",
+        "overlayType": "accessory",
+        "active": true
+      },
+      "SB": {
+        "occurrences": 25,
+        "frequency": "1.27%",
+        "overlayType": "accessory",
+        "active": true
+      },
+      "Coin": {
+        "occurrences": 24,
+        "frequency": "1.22%",
+        "overlayType": "accessory",
+        "active": true
+      },
+      "Cigar": {
+        "occurrences": 23,
+        "frequency": "1.17%",
+        "overlayType": "accessory",
+        "active": true
+      },
+      "Green Candle": {
+        "occurrences": 22,
+        "frequency": "1.12%",
+        "overlayType": "accessory",
+        "active": true
+      },
+      "Red Candle": {
+        "occurrences": 16,
+        "frequency": "0.81%",
+        "overlayType": "accessory",
+        "active": true
+      },
+      "Heart": {
+        "occurrences": 15,
+        "frequency": "0.76%",
+        "overlayType": "accessory",
+        "active": true
+      },
+      "Knife": {
+        "occurrences": 14,
+        "frequency": "0.71%",
+        "overlayType": "accessory",
+        "active": true
+      },
+      "PEPE": {
+        "occurrences": 13,
+        "frequency": "0.66%",
+        "overlayType": "accessory",
+        "active": true
+      }
+    },
+    "Form": {
+      "Chog": {
+        "occurrences": 1771,
+        "frequency": "89.94%",
+        "overlayType": "form",
+        "active": true
+      },
+      "Skull": {
+        "occurrences": 58,
+        "frequency": "2.95%",
+        "overlayType": "form",
+        "active": true
+      }
+    },
+    "Tier": {
+      "Common": {
+        "occurrences": 1193,
+        "frequency": "60.59%",
+        "overlayType": "tier",
+        "active": true
+      },
+      "Uncommon": {
+        "occurrences": 550,
+        "frequency": "27.93%",
+        "overlayType": "tier",
+        "active": true
+      },
+      "Rare": {
+        "occurrences": 58,
+        "frequency": "2.95%",
+        "overlayType": "tier",
+        "active": true
+      },
+      "Epic": {
+        "occurrences": 28,
+        "frequency": "1.42%",
+        "overlayType": "tier",
+        "active": true
+      },
+      "Legendary": {
+        "occurrences": 9,
+        "frequency": "0.46%",
+        "overlayType": "tier",
+        "active": true
+      }
+    },
+    "Naked": {
+      "No": {
+        "occurrences": 1779,
+        "frequency": "90.35%",
+        "overlayType": "naked",
+        "active": true
+      },
+      "Yes": {
+        "occurrences": 50,
+        "frequency": "2.54%",
+        "overlayType": "naked",
+        "active": true
+      }
+    },
+    "Aura": {
+      "Burning Aura": {
+        "occurrences": 75,
+        "frequency": "3.81%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Fiery Aura": {
+        "occurrences": 67,
+        "frequency": "3.40%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Aqua Aura": {
+        "occurrences": 66,
+        "frequency": "3.35%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Rose Aura": {
+        "occurrences": 61,
+        "frequency": "3.10%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Light Purple": {
+        "occurrences": 60,
+        "frequency": "3.05%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Mint": {
+        "occurrences": 60,
+        "frequency": "3.05%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Royal Blue Aura": {
+        "occurrences": 56,
+        "frequency": "2.84%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Purple": {
+        "occurrences": 56,
+        "frequency": "2.84%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Wind": {
+        "occurrences": 56,
+        "frequency": "2.84%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Clean": {
+        "occurrences": 53,
+        "frequency": "2.69%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Cool Aura": {
+        "occurrences": 51,
+        "frequency": "2.59%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Smoke": {
+        "occurrences": 50,
+        "frequency": "2.54%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Violet": {
+        "occurrences": 47,
+        "frequency": "2.39%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Yellow Aura": {
+        "occurrences": 47,
+        "frequency": "2.39%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Fire": {
+        "occurrences": 46,
+        "frequency": "2.34%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Royal Aura": {
+        "occurrences": 40,
+        "frequency": "2.03%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Green Aura": {
+        "occurrences": 8,
+        "frequency": "0.41%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Rose Scent": {
+        "occurrences": 5,
+        "frequency": "0.25%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Pink Mist": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Royal Blue": {
+        "occurrences": 3,
+        "frequency": "0.15%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "Electric Shock": {
+        "occurrences": 2,
+        "frequency": "0.10%",
+        "overlayType": "aura",
+        "active": true
+      },
+      "White Aura": {
+        "occurrences": 1,
+        "frequency": "0.05%",
+        "overlayType": "aura",
+        "active": true
+      }
+    }
+  }
+}

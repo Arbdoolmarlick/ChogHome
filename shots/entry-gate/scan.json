@@ -1,0 +1,120 @@
+[
+  {
+    "w": 390,
+    "fails": [
+      "Control label wraps onto two lines: \"Holder 1 (47 Chogs)\"; \"Holder 2 (28 Chogs)\". Give it room or shorten it."
+    ],
+    "warns": [
+      "5 text elements at 11px: 11px \"1. HOLDER SIWE\"; 11px \"2. 30s DEMO PASS\"; 11px \"3. SPECTATE\"",
+      "1 form field(s) without a label (a placeholder is not a label).",
+      "No visible <h1>."
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "78%",
+        "Press Start 2P": "22%"
+      },
+      "sizes": [
+        16,
+        12,
+        11
+      ],
+      "body": null,
+      "hues": [
+        180,
+        60
+      ],
+      "boxes": 4,
+      "cardGrids": 0,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 768,
+    "fails": [],
+    "warns": [
+      "6 text elements at 11px: 11px \"Contract: 0xc96d31...7363\"; 11px \"1. HOLDER SIWE\"; 11px \"2. 30s DEMO PASS\"",
+      "1 form field(s) without a label (a placeholder is not a label).",
+      "No visible <h1>."
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "79%",
+        "Press Start 2P": "21%"
+      },
+      "sizes": [
+        18,
+        16,
+        12,
+        11
+      ],
+      "body": null,
+      "hues": [
+        180,
+        60
+      ],
+      "boxes": 4,
+      "cardGrids": 0,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 1280,
+    "fails": [],
+    "warns": [
+      "6 text elements at 11px: 11px \"Contract: 0xc96d31...7363\"; 11px \"1. HOLDER SIWE\"; 11px \"2. 30s DEMO PASS\"",
+      "1 form field(s) without a label (a placeholder is not a label).",
+      "No visible <h1>."
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "79%",
+        "Press Start 2P": "21%"
+      },
+      "sizes": [
+        18,
+        16,
+        12,
+        11
+      ],
+      "body": null,
+      "hues": [
+        180,
+        60
+      ],
+      "boxes": 4,
+      "cardGrids": 0,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 1440,
+    "fails": [],
+    "warns": [
+      "6 text elements at 11px: 11px \"Contract: 0xc96d31...7363\"; 11px \"1. HOLDER SIWE\"; 11px \"2. 30s DEMO PASS\"",
+      "1 form field(s) without a label (a placeholder is not a label).",
+      "No visible <h1>."
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "79%",
+        "Press Start 2P": "21%"
+      },
+      "sizes": [
+        18,
+        16,
+        12,
+        11
+      ],
+      "body": null,
+      "hues": [
+        180,
+        60
+      ],
+      "boxes": 4,
+      "cardGrids": 0,
+      "defaultIcons": 0,
+      "focusStops": 8
+    }
+  }
+]

@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-ink-black: #14101C;
+  --color-night-abyss: #1A1426;
+  --color-dusk-plum: #241B35;
+}
+
+.font-pixel-title {
+  font-family: 'Press Start 2P', monospace, sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.font-pixel-body {
+  font-family: 'VT323', monospace, sans-serif;
+  letter-spacing: 0.2px;
+}
+
+.pixel-box {
+  background: #241B35;
+  border: 3px solid #14101C;
+  box-shadow: inset -3px -3px 0px #1A1426, inset 3px 3px 0px #382B52, 0 6px 0 #14101C;
+}
+
+.pixel-btn {
+  border: 2px solid #14101C;
+  box-shadow: inset -2px -2px 0px rgba(20,16,28,0.45), inset 2px 2px 0px rgba(255,255,255,0.22), 0 4px 0 #14101C;
+  transition: transform 0.08s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.08s ease;
+}
+
+.pixel-btn:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: inset -2px -2px 0px rgba(20,16,28,0.45), inset 2px 2px 0px rgba(255,255,255,0.32), 0 5px 0 #14101C;
+}
+
+.pixel-btn:active:not(:disabled) {
+  transform: translateY(3px);
+  box-shadow: inset -1px -1px 0px rgba(20,16,28,0.45), 0 1px 0 #14101C;
+}
+
+/* Custom Scrollbar for Retro Pixel UI */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #14101C;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4B3B6B;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6C2BD9;
+}

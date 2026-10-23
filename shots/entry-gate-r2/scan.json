@@ -1,0 +1,111 @@
+[
+  {
+    "w": 390,
+    "fails": [],
+    "warns": [],
+    "facts": {
+      "fonts": {
+        "VT323": "78%",
+        "Press Start 2P": "22%"
+      },
+      "sizes": [
+        16,
+        12,
+        11
+      ],
+      "body": null,
+      "hues": [
+        180,
+        60
+      ],
+      "boxes": 4,
+      "cardGrids": 0,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 768,
+    "fails": [],
+    "warns": [
+      "Largest text is 18px against 16px body (1.1x). Nothing owns the first screen.",
+      "4 text elements at 11px: 11px \"Contract: 0xc96d31...7363\"; 11px \"1. HOLDER SIWE\"; 11px \"2. 30s DEMO PASS\""
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "79%",
+        "Press Start 2P": "21%"
+      },
+      "sizes": [
+        18,
+        16,
+        12,
+        11
+      ],
+      "body": null,
+      "hues": [
+        180,
+        60
+      ],
+      "boxes": 4,
+      "cardGrids": 0,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 1280,
+    "fails": [],
+    "warns": [
+      "Largest text is 18px against 16px body (1.1x). Nothing owns the first screen.",
+      "4 text elements at 11px: 11px \"Contract: 0xc96d31...7363\"; 11px \"1. HOLDER SIWE\"; 11px \"2. 30s DEMO PASS\""
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "79%",
+        "Press Start 2P": "21%"
+      },
+      "sizes": [
+        18,
+        16,
+        12,
+        11
+      ],
+      "body": null,
+      "hues": [
+        180,
+        60
+      ],
+      "boxes": 4,
+      "cardGrids": 0,
+      "defaultIcons": 0
+    }
+  },
+  {
+    "w": 1440,
+    "fails": [],
+    "warns": [
+      "Largest text is 18px against 16px body (1.1x). Nothing owns the first screen.",
+      "4 text elements at 11px: 11px \"Contract: 0xc96d31...7363\"; 11px \"1. HOLDER SIWE\"; 11px \"2. 30s DEMO PASS\""
+    ],
+    "facts": {
+      "fonts": {
+        "VT323": "79%",
+        "Press Start 2P": "21%"
+      },
+      "sizes": [
+        18,
+        16,
+        12,
+        11
+      ],
+      "body": null,
+      "hues": [
+        180,
+        60
+      ],
+      "boxes": 4,
+      "cardGrids": 0,
+      "defaultIcons": 0,
+      "focusStops": 8
+    }
+  }
+]
